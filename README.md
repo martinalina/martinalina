@@ -1,12 +1,10 @@
 ### Hi, i'm martinalina! ✨
 
 Chile-based computer engineering student, learning to design and build things I wish existed.  
-quiet on the outside; loud in my reading list and watchlist.
 
-#### about me
-- amateur at adulting
-- functional introvert: seen rarely, builds often
-- like to read and watch series — in responsible silence
+**about me —**  amateur at adulting 
+𖦹 functional introvert: seen rarely, builds often 
+𖦹 like to read and watch series in responsible silence
 
 #### now
 - developing (fighting) with **AppCopio** regularly
@@ -21,20 +19,18 @@ quiet on the outside; loud in my reading list and watchlist.
 #### fun facts
 - easily distrac-
 - i live with two dachshunds who think they’re people
-- chocolate milk > coffe / te (unless it's a mochaccino + suggar)
 - currently obsessed with **Espeon**
 - hobbies: anime, reading, staying in, building little things
 
 <details>
   <summary>ver en español</summary>
 
-  **soy estudiante de ingeniería civil informática en chile**, aprendiendo a diseñar y construir cosas que me gustaría ver en el mundo.
+  **Soy estudiante de ingeniería civil informática en chile**, aprendiendo a diseñar y construir cosas que me gustaría ver en el mundo.
 
-  **sobre mí** ✨
-  - adulta amateur 
-  - introvertida funcional: me ves poco, construyo mucho.
-  - me gusta leer y maratonear series en silencio responsable.
-  - leche con chocolate > café/té (a menos que sea mokkaccino + azúcar).
+  **sobre mí —**
+  adulta amateur 
+  𖦹 introvertida funcional: me ves poco, construyo mucho.
+  𖦹 me gusta leer y maratonear series en silencio responsable.
 
   **ahora**
   - desarrollando (peleando) con **AppCopio** regularmente
@@ -48,9 +44,9 @@ quiet on the outside; loud in my reading list and watchlist.
 
   **fun facts**
   - fácilmente distrai—
-  - convivo con dos dachshunds que creen que son personas
-  - actualmente obsesionada con **Espeon** 
-  - hobbies: anime, leer, estar en casa, construir cositas.
+  - convivo con dos dachshunds que creen que son personas 🐾🐾
+  - actualmente obsesionada con **Espeon** 🐈‍⬛
+  - hobbies: anime, leer, estar en casa, construir cositas
 </details>
 
 <!--
