@@ -1,4 +1,4 @@
-### Hi, i'm martinalina! ✨
+### Hi, i'm Martina! ✨
 
 Chile-based computer engineering student, learning to design and build things I wish existed.  
 
